@@ -8,6 +8,7 @@ Install the following application in your system :
 * adapta-gtk-theme 
 * network-manager-applet-indicator 
 * i3-gaps 
+* compton-tryone-git
 * nitrogen 
 * polybar 
 * rofi 
