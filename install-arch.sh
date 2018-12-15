@@ -1,0 +1,1 @@
+yaourt -S adapta-gtk-theme network-manager-applet-indicator i3-gaps nitrogen polybar rofi ttf-font-awesome lxappearance termite conky-lua wal-git xfce4-power-manager clipit xorg-xinput xorg-xbacklight pulseaudio gnome-screenshot

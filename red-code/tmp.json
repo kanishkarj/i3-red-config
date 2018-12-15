@@ -1,0 +1,33 @@
+#030C1A
+#DB1D50
+#F92F4D
+#B1435D
+#F3555A
+#525F8E
+#A1658F
+#BC98A2
+#666666
+#DB1D50
+#F92F4D
+#B1435D
+#F3555A
+#525F8E
+#A1658F
+#BC98A2
+
+"workbench.colorCustomizations": {
+  "editor.foreground": "#EDE1E8",
+  "activityBar.background" : "#452A54",
+  "activityBar.foreground": "#FEE5F3",
+  "sideBarSectionHeader.background": "#79588B",
+  "button.background": "#452A54",
+  "list.activeSelectionBackground" : "#642F4D",
+  "list.hoverBackground" : "#642F4D33",
+  "input.border" : "#452A54",
+  "inputOption.activeBorder" : "#79588B",
+  "focusBorder": "#79588B",
+  "editor.selectionBackground" : "#642F4D",
+  "editor.selectionHighlightBackground" : "#642F4D4D",
+  "scrollbarSlider.activeBackground" :  "#452A54",
+  "scrollbarSlider.hoverBackground": "#452A5499"
+}

@@ -1,0 +1,45 @@
+{
+    "name": "red-theme-visual-studio-code",
+    "displayName": "Red-theme",
+    "description": "Dark theme UI for Visual Studio Code",
+    "version": "0.0.7",
+    "publisher": "kanishkarj",
+    "author": {
+        "name": "kanishkarj",
+        "email": "egorkir41@gmail.com"
+    },
+    "engines": {
+        "vscode": "^1.21.0"
+    },
+    "galleryBanner": {
+        "color": "#1c2939",
+        "theme": "dark"
+    },
+    "markdown": "github",
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "dark",
+        "UI",
+        "bluish",
+        "clean"
+    ],
+    "badges": [
+    
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "red-code",
+                "uiTheme": "vs-dark",
+                "path": "./themes/red-code-theme.json"
+            }
+        ]
+    },
+    "__metadata": {
+        "id": "4de2a797-257e-4f9e-94b8-ec6a9e2f3019",
+        "publisherDisplayName": "Kanishkar J",
+        "publisherId": "3b64b9e9-724d-4b7b-a24d-0c39505e91b9"
+    }
+}
